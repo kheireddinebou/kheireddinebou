@@ -18,7 +18,7 @@ Connect with me on <a href="https://www.linkedin.com/in/kheireddinebou/">LinkedI
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kheireddinebou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=holi&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=kheireddinebou&layout=compact&langs_count=5&theme=holi" alt="Top Languages" />
 </div>
 
 <br/>
